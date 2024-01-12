@@ -1,4 +1,17 @@
-# nama_projek
+HACKFAST 2024 HACKER STAGE 2
+
+DASHBYTE "Ecomfy"
+
+![image](https://github.com/HanggaraPutra/Ecomfy/assets/140530528/1e3dad09-9529-46f3-90a6-69a8db042f89)
+
+Team Description:
+Hacker  :
+Naufal Hanggara Putra Anwar    (hanggaraputra292@gmail.com)
+Muhammad Satria Ramadhan
+Hipster  :
+Ardhito Reynata
+Hustler  :
+Muhammad Akhtar Ariq
 
 A new Flutter project.
 
